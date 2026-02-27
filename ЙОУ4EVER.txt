@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 slayyyyyy
 =======
-Hello world
+- Hello world
 >>>>>>> 899e2f65ea2d05f17d1dc9589d43ba58fea1208f
++ Hello world(привет мир)
